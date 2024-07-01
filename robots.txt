@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://lablegogal.github.io/sitemap
+Sitemap: https://lablegogal.github.io/app/sitemap
+Sitemap: https://lablegogal.github.io/assets/sitemap
+Sitemap: https://lablegogal.github.io/css/sitemap
+Sitemap: https://lablegogal.github.io/includes/sitemap
+Sitemap: https://lablegogal.github.io/item/sitemap
+Sitemap: https://lablegogal.github.io/src/sitemap
